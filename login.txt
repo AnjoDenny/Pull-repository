@@ -1,0 +1,4 @@
+1) Login using valid credentials for username and password
+2) Login using invalid credentials for username and password
+3) Login using valid username and invalid password
+4) Login using invalid username and valid password
